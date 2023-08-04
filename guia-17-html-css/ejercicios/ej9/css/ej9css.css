@@ -1,0 +1,73 @@
+h1{
+    color: rgb(24, 122, 101);
+}
+p{
+    color: black;
+}
+.span-rojo{
+    color: red;
+}
+.span-amarillo{
+    color: rgb(197, 165, 20);
+}
+h2{
+    color: blue;
+}
+.em-azul{
+    color: blue;
+}
+
+/* TABLA */
+table{
+    border-collapse: collapse;
+}
+tr{
+    width: 100px;
+    height: 75px;
+    border: 1px solid black;
+}
+td{
+    width: 100px;
+    height: 75px;
+    border: 1px solid black;
+}
+th{
+    width: 100px;
+    height: 75px;
+    border: 1px solid black;
+}
+/* TABLA */
+
+a{
+    color: red;
+}
+em{
+    color: blue;
+}
+
+th.especial{
+    color: yellow;
+}
+th.f2{
+    color: red;
+}
+td{
+    color: green;
+}
+td strong{
+    color: orange;
+}
+th.col{
+    color: red;
+}
+#adicional p {
+  color: #56ce96; /* Texto de los párrafos en un tono verdoso */
+}
+
+#especial {
+  color: #FF1493; /* Texto del span con id="especial" en rosa */
+}
+
+#adicional a {
+  color: #006400; /* Texto de los enlaces en un verde más fuerte */
+}

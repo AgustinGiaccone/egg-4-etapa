@@ -1,0 +1,22 @@
+/* Enlaces normales */
+a {
+    color: #cc0000;
+    text-decoration: none;
+}
+
+  /* Enlaces al pasar el ratón */
+a:hover {
+    background-color: #ff0000;
+    color: #ffffff;
+}
+/* En el momento que se haga clic */
+a:active{
+    background-color: yellow;
+    color: blue;
+}
+
+  /* Enlaces visitados */
+a :visited {
+    color: rgb(150, 146, 146);
+}
+
